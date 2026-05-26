@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordync",
+        "uuid": 10650472,
+        "checksum": "3zkzk"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
